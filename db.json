@@ -1,0 +1,135 @@
+[
+  {
+    "author": "Chinua Achebe",
+    "country": "Nigeria",
+    "imageLink": "images/things-fall-apart.jpg",
+    "title": "Things Fall Apart",
+    "year": 1958
+  },
+  {
+    "author": "Hans Christian Andersen",
+    "country": "Denmark",
+    "imageLink": "images/fairy-tales.jpg",
+    "title": "Fairy tales",
+    "year": 1836
+  },
+  {
+    "author": "Dante Alighieri",
+    "country": "Italy",
+    "imageLink": "images/the-divine-comedy.jpg",
+    "title": "The Divine Comedy",
+    "year": 1315
+  },
+  {
+    "author": "Unknown",
+    "country": "Sumer and Akkadian Empire",
+    "imageLink": "images/the-epic-of-gilgamesh.jpg",
+    "title": "The Epic Of Gilgamesh",
+    "year": -1700
+  },
+  {
+    "author": "Unknown",
+    "country": "Achaemenid Empire",
+    "imageLink": "images/the-book-of-job.jpg",
+    "title": "The Book Of Job",
+    "year": -600
+  },
+  {
+    "author": "Unknown",
+    "country": "India/Iran/Iraq/Egypt/Tajikistan",
+    "imageLink": "images/one-thousand-and-one-nights.jpg",
+    "title": "One Thousand and One Nights",
+    "year": 1200
+  },
+  {
+    "author": "Unknown",
+    "country": "Iceland",
+    "imageLink": "images/njals-saga.jpg",
+    "title": "Nj\u00e1l's Saga",
+    "year": 1350
+  },
+  {
+    "author": "Jane Austen",
+    "country": "United Kingdom",
+    "imageLink": "images/pride-and-prejudice.jpg",
+    "title": "Pride and Prejudice",
+    "year": 1813
+  },
+  {
+    "author": "Honor\u00e9 de Balzac",
+    "country": "France",
+    "imageLink": "images/le-pere-goriot.jpg",
+    "title": "Le P\u00e8re Goriot",
+    "year": 1835
+  },
+  {
+    "author": "Samuel Beckett",
+    "country": "Republic of Ireland",
+    "imageLink": "images/molloy-malone-dies-the-unnamable.jpg",
+    "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+    "year": 1952
+  },
+  {
+    "author": "Giovanni Boccaccio",
+    "country": "Italy",
+    "imageLink": "images/the-decameron.jpg",
+    "title": "The Decameron",
+    "year": 1351
+  },
+  {
+    "author": "Jorge Luis Borges",
+    "country": "Argentina",
+    "imageLink": "images/ficciones.jpg",
+    "title": "Ficciones",
+    "year": 1965
+  },
+  {
+    "author": "Emily Bront\u00eb",
+    "country": "United Kingdom",
+    "imageLink": "images/wuthering-heights.jpg",
+    "title": "Wuthering Heights",
+    "year": 1847
+  },
+  {
+    "author": "Albert Camus",
+    "country": "Algeria, French Empire",
+    "imageLink": "images/l-etranger.jpg",
+    "title": "The Stranger",
+    "year": 1942
+  },
+  {
+    "author": "Paul Celan",
+    "country": "Romania, France",
+    "imageLink": "images/poems-paul-celan.jpg",
+    "title": "Poems",
+    "year": 1952
+  },
+  {
+    "author": "Louis-Ferdinand C\u00e9line",
+    "country": "France",
+    "imageLink": "images/voyage-au-bout-de-la-nuit.jpg",
+    "title": "Journey to the End of the Night",
+    "year": 1932
+  },
+  {
+    "author": "Miguel de Cervantes",
+    "country": "Spain",
+    "imageLink": "images/don-quijote-de-la-mancha.jpg",
+    "title": "Don Quijote De La Mancha",
+    "year": 1610
+  },
+  {
+    "author": "Geoffrey Chaucer",
+    "country": "England",
+    "imageLink": "images/the-canterbury-tales.jpg",
+    "title": "The Canterbury Tales",
+    "year": 1450
+  },
+  {
+    "author": "Anton Chekhov",
+    "country": "Russia",
+    "imageLink": "images/stories-of-anton-chekhov.jpg",
+    "title": "Stories",
+    "year": 1886
+  }
+]
