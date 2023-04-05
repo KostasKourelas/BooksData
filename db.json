@@ -23,7 +23,7 @@
   {
     "author": "Dante Alighieri",
     "country": "Italy",
-    "imageLink": "images/the-divine-comedy.jpg",
+    "imageLink": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/910RVMMAJpL._AC_UF1000,1000_QL80_.jpg",
     "language": "Italian",
     "link": "https://en.wikipedia.org/wiki/Divine_Comedy\n",
     "pages": 928,
@@ -33,7 +33,7 @@
   {
     "author": "Unknown",
     "country": "Sumer and Akkadian Empire",
-    "imageLink": "images/the-epic-of-gilgamesh.jpg",
+    "imageLink": "https://www.sup.org/img/covers/med_large/pid_2829.jpg",
     "language": "Akkadian",
     "link": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh\n",
     "pages": 160,
@@ -43,7 +43,7 @@
   {
     "author": "Unknown",
     "country": "Achaemenid Empire",
-    "imageLink": "images/the-book-of-job.jpg",
+    "imageLink": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51BNAD8p6pL._AC_UF1000,1000_QL80_.jpg",
     "language": "Hebrew",
     "link": "https://en.wikipedia.org/wiki/Book_of_Job\n",
     "pages": 176,
@@ -53,7 +53,7 @@
   {
     "author": "Unknown",
     "country": "India/Iran/Iraq/Egypt/Tajikistan",
-    "imageLink": "images/one-thousand-and-one-nights.jpg",
+    "imageLink": "https://www.bfbooks.com/core/media/media.nl?id=2146&c=426867&h=aTq93H1LNGPz6b-E_M3XoZ3cGZmxxM-NqMoMLMqWJKav3kMO",
     "language": "Arabic",
     "link": "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights\n",
     "pages": 288,
@@ -63,7 +63,7 @@
   {
     "author": "Unknown",
     "country": "Iceland",
-    "imageLink": "images/njals-saga.jpg",
+    "imageLink": "https://i.pinimg.com/originals/67/b7/f2/67b7f2d423cda90a03c5dbe687f9c6cb.jpg",
     "language": "Old Norse",
     "link": "https://en.wikipedia.org/wiki/Nj%C3%A1ls_saga\n",
     "pages": 384,
@@ -73,7 +73,7 @@
   {
     "author": "Jane Austen",
     "country": "United Kingdom",
-    "imageLink": "images/pride-and-prejudice.jpg",
+    "imageLink": "https://almabooks.com/wp-content/uploads/2016/10/9781847493699.jpg",
     "language": "English",
     "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice\n",
     "pages": 226,
@@ -83,7 +83,7 @@
   {
     "author": "Honor\u00e9 de Balzac",
     "country": "France",
-    "imageLink": "images/le-pere-goriot.jpg",
+    "imageLink": "https://imusic.b-cdn.net/images/item/original/799/9782253085799.jpg?honore-de-balzac-1978-le-pere-goriot-paperback-book&class=scaled",
     "language": "French",
     "link": "https://en.wikipedia.org/wiki/Le_P%C3%A8re_Goriot\n",
     "pages": 443,
@@ -93,7 +93,7 @@
   {
     "author": "Samuel Beckett",
     "country": "Republic of Ireland",
-    "imageLink": "images/molloy-malone-dies-the-unnamable.jpg",
+    "imageLink": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41IGz6TYeqL._AC_UF1000,1000_QL80_.jpg",
     "language": "French, English",
     "link": "https://en.wikipedia.org/wiki/Molloy_(novel)\n",
     "pages": 256,
@@ -103,7 +103,7 @@
   {
     "author": "Giovanni Boccaccio",
     "country": "Italy",
-    "imageLink": "images/the-decameron.jpg",
+    "imageLink": "https://images.booksense.com/images/235/462/9781726462235.jpg",
     "language": "Italian",
     "link": "https://en.wikipedia.org/wiki/The_Decameron\n",
     "pages": 1024,
@@ -113,7 +113,7 @@
   {
     "author": "Jorge Luis Borges",
     "country": "Argentina",
-    "imageLink": "images/ficciones.jpg",
+    "imageLink": "https://images.penguinrandomhouse.com/cover/9780307950925",
     "language": "Spanish",
     "link": "https://en.wikipedia.org/wiki/Ficciones\n",
     "pages": 224,
@@ -123,7 +123,7 @@
   {
     "author": "Emily Bront\u00eb",
     "country": "United Kingdom",
-    "imageLink": "images/wuthering-heights.jpg",
+    "imageLink": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/91LlPa1mkZS.jpg",
     "language": "English",
     "link": "https://en.wikipedia.org/wiki/Wuthering_Heights\n",
     "pages": 342,
@@ -133,7 +133,7 @@
   {
     "author": "Albert Camus",
     "country": "Algeria, French Empire",
-    "imageLink": "images/l-etranger.jpg",
+    "imageLink": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41JUdnT6rrL._SX318_BO1,204,203,200_.jpg",
     "language": "French",
     "link": "https://en.wikipedia.org/wiki/The_Stranger_(novel)\n",
     "pages": 185,
@@ -143,7 +143,7 @@
   {
     "author": "Paul Celan",
     "country": "Romania, France",
-    "imageLink": "images/poems-paul-celan.jpg",
+    "imageLink": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1510933483l/1258536.jpg",
     "language": "German",
     "link": "\n",
     "pages": 320,
