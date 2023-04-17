@@ -1,15 +1,5 @@
 [
-  {
-    "author": "Thomas Quinn Miller",
-    "country": "Nigeria",
-    "imageLink": "https://m.media-amazon.com/images/I/71Hn2G10QkL._AC_UF1000,1000_QL80_.jpg",
-    "language": "English",
-    "synopsis": "A war among the gods has led to the downfall of humanity and the banishment of their god...",
-    "pages": 373,
-    "title": "Cradle of the Gods",
-    "year": 2013
-  },
-  {
+   {
     "author": "Chinua Achebe",
     "country": "Nigeria",
     "imageLink": "https://upload.wikimedia.org/wikipedia/en/6/65/ThingsFallApart.jpg",
@@ -18,7 +8,80 @@
     "pages": 209,
     "title": "Things Fall Apart",
     "year": 1958,
+    "special": true,
     "pdfLink": "http://docs.google.com/gview?embedded=true&url=http://www.centralschool.edu.vu/uploads/1/1/4/4/114402701/things-fall-apart.pdf"
+  },
+  {
+    "author": "J.K. Rowling",
+    "country": "England",
+    "imageLink": "https://static.wikia.nocookie.net/harrypotter/images/9/95/Half-Blood_Prince_new_cover.jpg/revision/latest?cb=20170109054810",
+    "language": "English",
+    "synopsis": "It is the middle of the summer, but there is an unseasonal mist pressing against the windowpanes...",
+    "pages": 652,
+    "title": "Half Blood Prince",
+    "year": 2005,
+    "special": true,
+    "pdfLink": "http://docs.google.com/gview?embedded=true&url=https://github.com/KostasKourelas/kostaskourelas.github.io/raw/main/eBooks-pdfs/Harry-Potter-and-the-Half-Blood-Prince.pdf"
+  },
+  {
+    "author": "J.K. Rowling",
+    "country": "England",
+    "imageLink": "https://m.media-amazon.com/images/I/71sH3vxziLL._AC_UF1000,1000_QL80_.jpg",
+    "language": "English",
+    "synopsis": "Harry has been burdened with a dark, dangerous and seemingly impossible task: that of locating and destroying Voldemort's remaining Horcruxes...",
+    "pages": 759,
+    "title": "Deathly Hallows",
+    "year": 2007,
+    "special": true,
+    "pdfLink": "http://docs.google.com/gview?embedded=true&url=https://github.com/KostasKourelas/kostaskourelas.github.io/raw/main/eBooks-pdfs/Harry-Potter-and-the-Deathly-Hallows.pdf"
+  },
+  {
+    "author": "J.K. Rowling",
+    "country": "England",
+    "imageLink": "https://m.media-amazon.com/images/I/516c41oodRL._AC_UF1000,1000_QL80_.jpg",
+    "language": "English",
+    "synopsis": "Harry Potter is about to start his fifth year at Hogwarts School of Witchcraft and Wizardry...",
+    "pages": 912,
+    "title": "Order of the Phoenix",
+    "year": 2003,
+    "special": true,
+    "pdfLink": "http://docs.google.com/gview?embedded=true&url=https://github.com/KostasKourelas/kostaskourelas.github.io/raw/main/eBooks-pdfs/Harry-Potter-and-the-Order-of-the-Phoenix.pdf"
+  },
+  {
+    "author": "James Dashner",
+    "country": "England",
+    "imageLink": "https://m.media-amazon.com/images/I/A1484chhhpL.jpg",
+    "language": "English",
+    "synopsis": "When Thomas wakes up in the lift, the only thing he can remember is his name. He’s surrounded by strangers—boys whose memories are also gone...",
+    "pages": 384,
+    "title": "Maze Runner",
+    "year": 2009,
+    "special": true,
+    "pdfLink": "http://docs.google.com/gview?embedded=true&url=https://github.com/KostasKourelas/kostaskourelas.github.io/raw/main/eBooks-pdfs/Cradle-of-the-Gods.pdf"
+  },
+  {
+    "author": "Kay L Moody",
+    "country": "England",
+    "imageLink": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1653870759l/61189158._SY475_.jpg",
+    "language": "English",
+    "synopsis": "Queen of the fae courts. Faced with an impossible battle. Destined to never be with the Unseelie I love...",
+    "pages": 302,
+    "title": "Ice Crown",
+    "year": 2019,
+    "special": true,
+    "pdfLink": "http://docs.google.com/gview?embedded=true&url=https://github.com/KostasKourelas/kostaskourelas.github.io/raw/main/eBooks-pdfs/Ice-Crown.pdf"
+  },
+  {
+    "author": "Thomas Quinn Miller",
+    "country": "England",
+    "imageLink": "https://m.media-amazon.com/images/I/71Hn2G10QkL._AC_UF1000,1000_QL80_.jpg",
+    "language": "English",
+    "synopsis": "A war among the gods has led to the downfall of humanity and the banishment of their god...",
+    "pages": 373,
+    "title": "Cradle of the Gods",
+    "year": 2013,
+    "special": true,
+    "pdfLink": "http://docs.google.com/gview?embedded=true&url=https://github.com/KostasKourelas/kostaskourelas.github.io/raw/main/eBooks-pdfs/the_maze_runner.pdf"
   },
   {
     "author": "Hans Christian Andersen",
