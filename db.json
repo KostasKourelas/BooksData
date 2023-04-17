@@ -545,7 +545,7 @@
   {
     "author": "Nikos Kazantzakis",
     "country": "Greece",
-    "imageLink": "images/zorba-the-greek.jpg",
+    "imageLink": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781476782812/zorba-the-greek-9781476782812_hr.jpg",
     "language": "Greek",
     "pages": 368,
     "title": "Zorba the Greek",
@@ -554,7 +554,7 @@
   {
     "author": "D. H. Lawrence",
     "country": "United Kingdom",
-    "imageLink": "images/sons-and-lovers.jpg",
+    "imageLink": "https://m.media-amazon.com/images/I/71kjTjbqTyL.jpg",
     "language": "English",
     "pages": 432,
     "title": "Sons and Lovers",
@@ -563,7 +563,7 @@
   {
     "author": "Halld\u00f3r Laxness",
     "country": "Iceland",
-    "imageLink": "images/independent-people.jpg",
+    "imageLink": "https://m.media-amazon.com/images/I/71g6Dx-8dTL.jpg",
     "language": "Icelandic",
     "pages": 470,
     "title": "Independent People",
@@ -572,7 +572,7 @@
   {
     "author": "Giacomo Leopardi",
     "country": "Italy",
-    "imageLink": "images/poems-giacomo-leopardi.jpg",
+    "imageLink": "https://m.media-amazon.com/images/I/51uKoiFYxgL.jpg",
     "language": "Italian",
     "pages": 184,
     "title": "Poems",
@@ -581,7 +581,7 @@
   {
     "author": "Doris Lessing",
     "country": "United Kingdom",
-    "imageLink": "images/the-golden-notebook.jpg",
+    "imageLink": "https://m.media-amazon.com/images/I/81QlfR7m+BL.jpg",
     "language": "English",
     "pages": 688,
     "title": "The Golden Notebook",
@@ -590,7 +590,7 @@
   {
     "author": "Astrid Lindgren",
     "country": "Sweden",
-    "imageLink": "images/pippi-longstocking.jpg",
+    "imageLink": "https://m.media-amazon.com/images/I/A1nSTQMzZpL._AC_UF1000,1000_QL80_.jpg",
     "language": "Swedish",
     "pages": 160,
     "title": "Pippi Longstocking",
@@ -599,7 +599,7 @@
   {
     "author": "Lu Xun",
     "country": "China",
-    "imageLink": "images/diary-of-a-madman.jpg",
+    "imageLink": "https://m.media-amazon.com/images/I/51arbtxS1VL.jpg",
     "language": "Chinese",
     "pages": 389,
     "title": "Diary of a Madman",
@@ -608,7 +608,7 @@
   {
     "author": "Naguib Mahfouz",
     "country": "Egypt",
-    "imageLink": "images/children-of-gebelawi.jpg",
+    "imageLink": "https://m.media-amazon.com/images/I/51RhHhLv9rL._AC_UF1000,1000_QL80_.jpg",
     "language": "Arabic",
     "pages": 355,
     "title": "Children of Gebelawi",
@@ -617,7 +617,7 @@
   {
     "author": "Thomas Mann",
     "country": "Germany",
-    "imageLink": "images/buddenbrooks.jpg",
+    "imageLink": "https://m.media-amazon.com/images/I/91n5pXWfJXL.jpg",
     "language": "German",
     "pages": 736,
     "title": "Buddenbrooks",
@@ -626,7 +626,7 @@
   {
     "author": "Thomas Mann",
     "country": "Germany",
-    "imageLink": "images/the-magic-mountain.jpg",
+    "imageLink": "https://m.media-amazon.com/images/I/71b3Yc+LWxL.jpg",
     "language": "German",
     "pages": 720,
     "title": "The Magic Mountain",
@@ -635,7 +635,7 @@
   {
     "author": "Herman Melville",
     "country": "United States",
-    "imageLink": "images/moby-dick.jpg",
+    "imageLink": "https://m.media-amazon.com/images/I/41VnFKC9srL._AC_UF1000,1000_QL80_.jpg",
     "language": "English",
     "pages": 378,
     "title": "Moby Dick",
@@ -644,7 +644,7 @@
   {
     "author": "Michel de Montaigne",
     "country": "France",
-    "imageLink": "images/essais.jpg",
+    "imageLink": "https://m.media-amazon.com/images/I/51g9b6z1iAL.jpg",
     "language": "French",
     "pages": 404,
     "title": "Essays",
@@ -653,7 +653,7 @@
   {
     "author": "Elsa Morante",
     "country": "Italy",
-    "imageLink": "images/history.jpg",
+    "imageLink": "https://m.media-amazon.com/images/I/A1DKZOJYWLL._AC_UF1000,1000_QL80_.jpg",
     "language": "Italian",
     "pages": 600,
     "title": "History",
@@ -662,7 +662,7 @@
   {
     "author": "Toni Morrison",
     "country": "United States",
-    "imageLink": "images/beloved.jpg",
+    "imageLink": "https://m.media-amazon.com/images/I/613vQdXPDwL._AC_UF1000,1000_QL80_.jpg",
     "language": "English",
     "pages": 321,
     "title": "Beloved",
@@ -671,7 +671,7 @@
   {
     "author": "Murasaki Shikibu",
     "country": "Japan",
-    "imageLink": "images/the-tale-of-genji.jpg",
+    "imageLink": "https://images.penguinrandomhouse.com/cover/9780679417385",
     "language": "Japanese",
     "pages": 1360,
     "title": "The Tale of Genji",
@@ -680,7 +680,7 @@
   {
     "author": "Robert Musil",
     "country": "Austria",
-    "imageLink": "images/the-man-without-qualities.jpg",
+    "imageLink": "https://m.media-amazon.com/images/I/71MljrrcEGL._AC_UF1000,1000_QL80_.jpg",
     "language": "German",
     "pages": 365,
     "title": "The Man Without Qualities",
@@ -689,7 +689,7 @@
   {
     "author": "Vladimir Nabokov",
     "country": "Russia/United States",
-    "imageLink": "images/lolita.jpg",
+    "imageLink": "https://m.media-amazon.com/images/I/81-fZ9MH6pL.jpg",
     "language": "English",
     "pages": 317,
     "title": "Lolita",
@@ -698,7 +698,7 @@
   {
     "author": "George Orwell",
     "country": "United Kingdom",
-    "imageLink": "images/nineteen-eighty-four.jpg",
+    "imageLink": "https://wp.penguin.co.uk/wp-content/uploads/2020/01/Nineteen-eighty-four-1962-reprint-cover.jpg",
     "language": "English",
     "pages": 272,
     "title": "Nineteen Eighty-Four",
@@ -707,7 +707,7 @@
   {
     "author": "Ovid",
     "country": "Roman Empire",
-    "imageLink": "images/the-metamorphoses-of-ovid.jpg",
+    "imageLink": "https://m.media-amazon.com/images/I/91UCtlvpOrL.jpg",
     "language": "Classical Latin",
     "pages": 576,
     "title": "Metamorphoses",
@@ -716,7 +716,7 @@
   {
     "author": "Fernando Pessoa",
     "country": "Portugal",
-    "imageLink": "images/the-book-of-disquiet.jpg",
+    "imageLink": "https://m.media-amazon.com/images/I/51WOhxFpieL.jpg",
     "language": "Portuguese",
     "pages": 272,
     "title": "The Book of Disquiet",
@@ -725,7 +725,7 @@
   {
     "author": "Edgar Allan Poe",
     "country": "United States",
-    "imageLink": "images/tales-and-poems-of-edgar-allan-poe.jpg",
+    "imageLink": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470025301l/31307053.jpg",
     "language": "English",
     "pages": 842,
     "title": "Tales",
@@ -734,7 +734,7 @@
   {
     "author": "Marcel Proust",
     "country": "France",
-    "imageLink": "images/a-la-recherche-du-temps-perdu.jpg",
+    "imageLink": "https://m.media-amazon.com/images/I/51tRkYYlpaL.jpg",
     "language": "French",
     "pages": 2408,
     "title": "In Search of Lost Time",
@@ -743,7 +743,7 @@
   {
     "author": "Fran\u00e7ois Rabelais",
     "country": "France",
-    "imageLink": "images/gargantua-and-pantagruel.jpg",
+    "imageLink": "https://m.media-amazon.com/images/I/81ZqQLj842L._AC_UF1000,1000_QL80_.jpg",
     "language": "French",
     "pages": 623,
     "title": "Gargantua and Pantagruel",
@@ -752,7 +752,7 @@
   {
     "author": "Juan Rulfo",
     "country": "Mexico",
-    "imageLink": "images/pedro-paramo.jpg",
+    "imageLink": "https://m.media-amazon.com/images/I/41ctgcDdcuL.jpg",
     "language": "Spanish",
     "pages": 124,
     "title": "Pedro P\u00e1ramo",
@@ -761,7 +761,7 @@
   {
     "author": "Rumi",
     "country": "Sultanate of Rum",
-    "imageLink": "images/the-masnavi.jpg",
+    "imageLink": "https://m.media-amazon.com/images/I/91lztcT7CYL.jpg",
     "language": "Persian",
     "pages": 438,
     "title": "The Masnavi",
@@ -770,7 +770,7 @@
   {
     "author": "Salman Rushdie",
     "country": "United Kingdom, India",
-    "imageLink": "images/midnights-children.jpg",
+    "imageLink": "https://m.media-amazon.com/images/I/91guqbWJEQL.jpg",
     "language": "English",
     "pages": 536,
     "title": "Midnight's Children",
@@ -779,7 +779,7 @@
   {
     "author": "Saadi",
     "country": "Persia, Persian Empire",
-    "imageLink": "images/bostan.jpg",
+    "imageLink": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41-uszAKYOL._SX301_BO1,204,203,200_.jpg",
     "language": "Persian",
     "pages": 298,
     "title": "Bostan",
@@ -788,7 +788,7 @@
   {
     "author": "Tayeb Salih",
     "country": "Sudan",
-    "imageLink": "images/season-of-migration-to-the-north.jpg",
+    "imageLink": "https://upload.wikimedia.org/wikipedia/en/a/a3/Season_of_migration_to_the_north.jpg",
     "language": "Arabic",
     "pages": 139,
     "title": "Season of Migration to the North",
@@ -797,7 +797,7 @@
   {
     "author": "Jos\u00e9 Saramago",
     "country": "Portugal",
-    "imageLink": "images/blindness.jpg",
+    "imageLink": "https://m.media-amazon.com/images/I/519ki6ZA0rL.jpg",
     "language": "Portuguese",
     "pages": 352,
     "title": "Blindness",
@@ -806,7 +806,7 @@
   {
     "author": "William Shakespeare",
     "country": "England",
-    "imageLink": "images/hamlet.jpg",
+    "imageLink": "https://m.media-amazon.com/images/I/51IWerpjMGL._AC_UF1000,1000_QL80_.jpg",
     "language": "English",
     "pages": 432,
     "title": "Hamlet",
@@ -815,7 +815,7 @@
   {
     "author": "William Shakespeare",
     "country": "England",
-    "imageLink": "images/king-lear.jpg",
+    "imageLink": "https://g.christianbook.com/dg/product/cbd/f450/80586.jpg",
     "language": "English",
     "pages": 384,
     "title": "King Lear",
@@ -824,7 +824,7 @@
   {
     "author": "William Shakespeare",
     "country": "England",
-    "imageLink": "images/othello.jpg",
+    "imageLink": "https://m.media-amazon.com/images/I/511N5LJjowL.jpg",
     "language": "English",
     "pages": 314,
     "title": "Othello",
@@ -833,7 +833,7 @@
   {
     "author": "Sophocles",
     "country": "Greece",
-    "imageLink": "images/oedipus-the-king.jpg",
+    "imageLink": "https://uwpress.wisc.edu/books/images-pk/S11/Mulroy-Sophocles-Oedipus-c.jpg",
     "language": "Greek",
     "pages": 88,
     "title": "Oedipus the King",
@@ -842,7 +842,7 @@
   {
     "author": "Stendhal",
     "country": "France",
-    "imageLink": "images/le-rouge-et-le-noir.jpg",
+    "imageLink": "https://legacynyplorg-live.s3.amazonaws.com/s3fs-public/redandtheblack.jpg",
     "language": "French",
     "pages": 576,
     "title": "The Red and the Black",
@@ -851,7 +851,7 @@
   {
     "author": "Laurence Sterne",
     "country": "England",
-    "imageLink": "images/the-life-and-opinions-of-tristram-shandy.jpg",
+    "imageLink": "https://m.media-amazon.com/images/I/51Fvum82IQL.jpg",
     "language": "English",
     "pages": 640,
     "title": "The Life And Opinions of Tristram Shandy",
@@ -869,7 +869,7 @@
   {
     "author": "Jonathan Swift",
     "country": "Ireland",
-    "imageLink": "images/gullivers-travels.jpg",
+    "imageLink": "https://covers.openlibrary.org/b/id/10343970-L.jpg",
     "language": "English",
     "pages": 178,
     "title": "Gulliver's Travels",
@@ -878,7 +878,7 @@
   {
     "author": "Leo Tolstoy",
     "country": "Russia",
-    "imageLink": "images/war-and-peace.jpg",
+    "imageLink": "https://pictures.abebooks.com/inventory/md/md30565530754.jpg",
     "language": "Russian",
     "pages": 1296,
     "title": "War and Peace",
@@ -887,7 +887,7 @@
   {
     "author": "Leo Tolstoy",
     "country": "Russia",
-    "imageLink": "images/anna-karenina.jpg",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601352433i/15823480.jpg",
     "language": "Russian",
     "pages": 864,
     "title": "Anna Karenina",
@@ -896,7 +896,7 @@
   {
     "author": "Leo Tolstoy",
     "country": "Russia",
-    "imageLink": "images/the-death-of-ivan-ilyich.jpg",
+    "imageLink": "https://m.media-amazon.com/images/I/71E4TIko5HL._AC_UF1000,1000_QL80_.jpg",
     "language": "Russian",
     "pages": 92,
     "title": "The Death of Ivan Ilyich",
@@ -905,7 +905,7 @@
   {
     "author": "Mark Twain",
     "country": "United States",
-    "imageLink": "images/the-adventures-of-huckleberry-finn.jpg",
+    "imageLink": "https://images2.penguinrandomhouse.com/cover/9781440657580",
     "language": "English",
     "pages": 224,
     "title": "The Adventures of Huckleberry Finn",
@@ -914,7 +914,7 @@
   {
     "author": "Valmiki",
     "country": "India",
-    "imageLink": "images/ramayana.jpg",
+    "imageLink": "https://m.media-amazon.com/images/I/91GuzI72mjL.jpg",
     "language": "Sanskrit",
     "pages": 152,
     "title": "Ramayana",
@@ -923,7 +923,7 @@
   {
     "author": "Virgil",
     "country": "Roman Empire",
-    "imageLink": "images/the-aeneid.jpg",
+    "imageLink": "https://m.media-amazon.com/images/I/51284cxPAzL._AC_UF1000,1000_QL80_.jpg",
     "language": "Classical Latin",
     "pages": 442,
     "title": "The Aeneid",
@@ -932,7 +932,7 @@
   {
     "author": "Vyasa",
     "country": "India",
-    "imageLink": "images/the-mahab-harata.jpg",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1553101923i/118252.jpg",
     "language": "Sanskrit",
     "pages": 276,
     "title": "Mahabharata",
@@ -941,7 +941,7 @@
   {
     "author": "Walt Whitman",
     "country": "United States",
-    "imageLink": "images/leaves-of-grass.jpg",
+    "imageLink": "https://m.media-amazon.com/images/I/514QufgpodL.jpg",
     "language": "English",
     "pages": 152,
     "title": "Leaves of Grass",
@@ -950,7 +950,7 @@
   {
     "author": "Virginia Woolf",
     "country": "United Kingdom",
-    "imageLink": "images/mrs-dalloway.jpg",
+    "imageLink": "https://m.media-amazon.com/images/I/71gFRamMa1L._AC_UF1000,1000_QL80_.jpg",
     "language": "English",
     "pages": 216,
     "title": "Mrs Dalloway",
@@ -959,7 +959,7 @@
   {
     "author": "Virginia Woolf",
     "country": "United Kingdom",
-    "imageLink": "images/to-the-lighthouse.jpg",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1639106809i/59716.jpg",
     "language": "English",
     "pages": 209,
     "title": "To the Lighthouse",
@@ -968,7 +968,7 @@
   {
     "author": "Marguerite Yourcenar",
     "country": "France/Belgium",
-    "imageLink": "images/memoirs-of-hadrian.jpg",
+    "imageLink": "https://cdn.penguin.co.uk/dam-assets/books/9780141184968/9780141184968-jacket-large.jpg",
     "language": "French",
     "pages": 408,
     "title": "Memoirs of Hadrian",
